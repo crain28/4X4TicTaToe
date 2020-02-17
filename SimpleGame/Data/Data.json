@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "Bill",
+    "Wins": "3",
+    "Losses": "5",
+    "Ties": "1"
+  },
+  {
+    "Name": "Kelly",
+    "Wins": "7",
+    "Losses": "3",
+    "Ties": "0"
+  },
+  {
+    "Name": "Fred",
+    "Wins": "4",
+    "Losses": "2",
+    "Ties": "1"
+  },
+  {
+    "Name": "Terry",
+    "Wins": "2",
+    "Losses": "8",
+    "Ties": "3"
+  }
+]
